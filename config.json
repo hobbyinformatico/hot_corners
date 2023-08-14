@@ -1,0 +1,26 @@
+{
+    "active_corners": [
+        {
+            "range_x_min_max": [
+                1900,
+                1920
+            ],
+            "range_y_min_max": [
+                0,
+                20
+            ],
+            "command": "skippy-xd --expose"
+        },
+        {
+            "range_x_min_max": [
+                1820,
+                1920
+            ],
+            "range_y_min_max": [
+                1060,
+                1080
+            ],
+            "command": ""
+        }
+    ]
+}
