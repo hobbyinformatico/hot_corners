@@ -8,4 +8,6 @@ make
 ```
 
 ## avvio
+```
 ./mouse_position "path_assoluto_config.json"
+```
